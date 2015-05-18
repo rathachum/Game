@@ -6,5 +6,7 @@ public class Game {
 		// TODO Auto-generated method stub
 		System.out.println("I love Cambodia");
 	}
-
+public void Show(){
+	System.out.println("Hello Dr");
+}
 }
